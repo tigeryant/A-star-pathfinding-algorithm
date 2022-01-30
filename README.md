@@ -13,5 +13,3 @@ The program draws a grid of 'nodes' (squares) on the window, with a barrier arou
     
 ## Heuristic
 In this implementation, diagonal movement is not allowed. The heuristic used for calculating the distance between two nodes is Manhattan distance, as opposed to Euclidian distance.
-
-Feedback is welcome.
